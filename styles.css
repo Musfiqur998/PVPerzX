@@ -1,0 +1,46 @@
+.nav{
+    color: gray;
+    transition: all 0.7s;
+}
+.nav:hover{
+    color: black;
+    transition: 0.7s;
+}
+
+.nav-btn{
+    color: gray;
+    transition: all 0.7s;
+}
+.nav-btn:hover{
+    color: black;
+    background: (red, yellow);
+    background-color: tomato;
+    transition: 0.7s;
+}
+
+.body-btn{
+    color: white;
+    transition: all 0.7s;
+}
+.body-btn:hover{
+    color: black;
+    background: (red, yellow);
+    background-color: tomato;
+    transition: 0.7s;
+}
+
+.body-btn-rank{
+    color: black;
+    background-color: hotpink;
+    transition: all 0.7s;
+}
+.body-btn-rank:hover{
+    color: white;
+    background: (red, yellow);
+    background-color: tomato;
+    transition: 0.7s;
+}
+
+.discord{
+    size: 20px;
+}
